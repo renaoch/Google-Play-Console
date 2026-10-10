@@ -1,0 +1,6 @@
+{
+  "name": "Play Console Publishing Overview",
+  "description": "Exact interactive replica of the Google Play Console Publishing Overview interface showing changes in review across Production, Open testing, and Closed testing tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
